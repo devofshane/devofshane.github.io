@@ -119,7 +119,7 @@ td {
 * BLOG PAGE
 *****************/
 
-header {
+/*header {
 	float: none;
 }
 
@@ -176,7 +176,7 @@ button {
 	border-width: 1px 1px 1px;
 	box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.1) inset;
 	margin-bottom: 10px;
-}
+}*/
 
 
 /*****************
@@ -197,10 +197,6 @@ button {
 	background-size: 20px 20px;
 	padding: 0 0 0 30px;
 	margin: 0 0 5px;
-}
-
-.contact-info li.phone a {
-	background-image: url(../img/phone.png);
 }
 
 .contact-info li.mail a {
@@ -240,7 +236,7 @@ a {
 }
 
 nav a, nav a:visited {
-	color: #0F2B43;
+	color: #D3D3D3;
 }
 
 nav a.selected {
