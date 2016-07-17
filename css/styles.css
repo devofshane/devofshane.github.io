@@ -81,6 +81,11 @@ footer {
 	height: 30px;
 }
 
+.social-logos:hover {
+  box-shadow: 0 0 5px #7AB1E1;
+  border-radius: 180px;
+}
+
 
 /*****************
 * PORTFOLIO PAGE
